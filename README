@@ -1,0 +1,3 @@
+The logistic map is a polynomial mapping (equivalently, recurrence relation) of degree 2, often cited as an archetypal example of how complex, chaotic behaviour can arise from very simple non-linear dynamical equations. 
+
+This short Python code plots the logistic map, helping to illustrate its rich structure the nature of its multiple equilibrium.
